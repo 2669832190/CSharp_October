@@ -1,0 +1,10 @@
+D:\kf\VS\8_303\10_29\ini文件操作\bin\Debug\ini文件操作.exe.config
+D:\kf\VS\8_303\10_29\ini文件操作\bin\Debug\ini文件操作.exe
+D:\kf\VS\8_303\10_29\ini文件操作\bin\Debug\ini文件操作.pdb
+D:\kf\VS\8_303\10_29\ini文件操作\obj\Debug\ini文件操作.csproj.AssemblyReference.cache
+D:\kf\VS\8_303\10_29\ini文件操作\obj\Debug\ini文件操作.Form1.resources
+D:\kf\VS\8_303\10_29\ini文件操作\obj\Debug\ini文件操作.Properties.Resources.resources
+D:\kf\VS\8_303\10_29\ini文件操作\obj\Debug\ini文件操作.csproj.GenerateResource.cache
+D:\kf\VS\8_303\10_29\ini文件操作\obj\Debug\ini文件操作.csproj.CoreCompileInputs.cache
+D:\kf\VS\8_303\10_29\ini文件操作\obj\Debug\ini文件操作.exe
+D:\kf\VS\8_303\10_29\ini文件操作\obj\Debug\ini文件操作.pdb

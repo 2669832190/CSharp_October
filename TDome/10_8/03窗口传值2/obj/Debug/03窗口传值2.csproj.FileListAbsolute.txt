@@ -1,0 +1,11 @@
+D:\kf\VS\8_303\10_8\03窗口传值2\bin\Debug\03窗口传值2.exe.config
+D:\kf\VS\8_303\10_8\03窗口传值2\bin\Debug\03窗口传值2.exe
+D:\kf\VS\8_303\10_8\03窗口传值2\bin\Debug\03窗口传值2.pdb
+D:\kf\VS\8_303\10_8\03窗口传值2\obj\Debug\03窗口传值2.csproj.AssemblyReference.cache
+D:\kf\VS\8_303\10_8\03窗口传值2\obj\Debug\_03窗口传值2.Form1.resources
+D:\kf\VS\8_303\10_8\03窗口传值2\obj\Debug\_03窗口传值2.Form2.resources
+D:\kf\VS\8_303\10_8\03窗口传值2\obj\Debug\_03窗口传值2.Properties.Resources.resources
+D:\kf\VS\8_303\10_8\03窗口传值2\obj\Debug\03窗口传值2.csproj.GenerateResource.cache
+D:\kf\VS\8_303\10_8\03窗口传值2\obj\Debug\03窗口传值2.csproj.CoreCompileInputs.cache
+D:\kf\VS\8_303\10_8\03窗口传值2\obj\Debug\03窗口传值2.exe
+D:\kf\VS\8_303\10_8\03窗口传值2\obj\Debug\03窗口传值2.pdb

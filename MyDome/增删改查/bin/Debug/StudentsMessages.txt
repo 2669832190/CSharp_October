@@ -1,0 +1,7 @@
+ID:000001;Name:喜羊羊;Sex:男;Age:18;Class:人工智能32班;Address:青青草原;Phone:12345678901
+ID:000002;Name:美羊羊;Sex:女;Age:18;Class:人工智能32班;Address:青青草原;Phone:12345678902
+ID:000003;Name:沸羊羊;Sex:男;Age:18;Class:人工智能32班;Address:青青草原;Phone:12345678903
+ID:000004;Name:暖羊羊;Sex:女;Age:18;Class:人工智能32班;Address:青青草原;Phone:12345678904
+ID:000005;Name:灰太狼;Sex:男;Age:18;Class:人工智能32班;Address:青青草原;Phone:12345678905
+ID:000006;Name:红太狼;Sex:女;Age:18;Class:人工智能32班;Address:青青草原;Phone:12345678906
+ID:000007;Name:小灰灰;Sex:男;Age:18;Class:人工智能32班;Address:青青草原;Phone:12345678907

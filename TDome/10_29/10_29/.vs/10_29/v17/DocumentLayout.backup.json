@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\kf\\VS\\8_303\\10_29\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9838037-54D8-4433-9D08-3E6AD418D3F4}|Hik\u8FDE\u63A5\u76F8\u673A2\\Hik\u8FDE\u63A5\u76F8\u673A2.csproj|d:\\kf\\vs\\8_303\\10_29\\hik\u8FDE\u63A5\u76F8\u673A2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9838037-54D8-4433-9D08-3E6AD418D3F4}|Hik\u8FDE\u63A5\u76F8\u673A2\\Hik\u8FDE\u63A5\u76F8\u673A2.csproj|solutionrelative:hik\u8FDE\u63A5\u76F8\u673A2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9838037-54D8-4433-9D08-3E6AD418D3F4}|Hik\u8FDE\u63A5\u76F8\u673A2\\Hik\u8FDE\u63A5\u76F8\u673A2.csproj|d:\\kf\\vs\\8_303\\10_29\\hik\u8FDE\u63A5\u76F8\u673A2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9838037-54D8-4433-9D08-3E6AD418D3F4}|Hik\u8FDE\u63A5\u76F8\u673A2\\Hik\u8FDE\u63A5\u76F8\u673A2.csproj|solutionrelative:hik\u8FDE\u63A5\u76F8\u673A2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\kf\\VS\\8_303\\10_29\\Hik\u8FDE\u63A5\u76F8\u673A2\\Form1.cs",
+              "RelativeDocumentMoniker": "Hik\u8FDE\u63A5\u76F8\u673A2\\Form1.cs",
+              "ToolTip": "D:\\kf\\VS\\8_303\\10_29\\Hik\u8FDE\u63A5\u76F8\u673A2\\Form1.cs",
+              "RelativeToolTip": "Hik\u8FDE\u63A5\u76F8\u673A2\\Form1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:04:19.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\kf\\VS\\8_303\\10_29\\Hik\u8FDE\u63A5\u76F8\u673A2\\Form1.cs",
+              "RelativeDocumentMoniker": "Hik\u8FDE\u63A5\u76F8\u673A2\\Form1.cs",
+              "ToolTip": "D:\\kf\\VS\\8_303\\10_29\\Hik\u8FDE\u63A5\u76F8\u673A2\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Hik\u8FDE\u63A5\u76F8\u673A2\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:04:10.218Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

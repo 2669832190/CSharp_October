@@ -1,0 +1,10 @@
+H:\CSharp_October\MyDome\10_29_ini文件操作\bin\Debug\10_29_ini文件操作.exe.config
+H:\CSharp_October\MyDome\10_29_ini文件操作\bin\Debug\10_29_ini文件操作.exe
+H:\CSharp_October\MyDome\10_29_ini文件操作\bin\Debug\10_29_ini文件操作.pdb
+H:\CSharp_October\MyDome\10_29_ini文件操作\obj\Debug\10_29_ini文件操作.csproj.AssemblyReference.cache
+H:\CSharp_October\MyDome\10_29_ini文件操作\obj\Debug\_10_29_ini文件操作.Form1.resources
+H:\CSharp_October\MyDome\10_29_ini文件操作\obj\Debug\_10_29_ini文件操作.Properties.Resources.resources
+H:\CSharp_October\MyDome\10_29_ini文件操作\obj\Debug\10_29_ini文件操作.csproj.GenerateResource.cache
+H:\CSharp_October\MyDome\10_29_ini文件操作\obj\Debug\10_29_ini文件操作.csproj.CoreCompileInputs.cache
+H:\CSharp_October\MyDome\10_29_ini文件操作\obj\Debug\10_29_ini文件操作.exe
+H:\CSharp_October\MyDome\10_29_ini文件操作\obj\Debug\10_29_ini文件操作.pdb

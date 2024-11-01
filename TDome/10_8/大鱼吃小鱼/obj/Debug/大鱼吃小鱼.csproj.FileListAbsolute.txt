@@ -1,0 +1,10 @@
+D:\kf\VS\8_303\10_8\大鱼吃小鱼\bin\Debug\大鱼吃小鱼.exe.config
+D:\kf\VS\8_303\10_8\大鱼吃小鱼\bin\Debug\大鱼吃小鱼.exe
+D:\kf\VS\8_303\10_8\大鱼吃小鱼\bin\Debug\大鱼吃小鱼.pdb
+D:\kf\VS\8_303\10_8\大鱼吃小鱼\obj\Debug\大鱼吃小鱼.csproj.AssemblyReference.cache
+D:\kf\VS\8_303\10_8\大鱼吃小鱼\obj\Debug\大鱼吃小鱼.Form1.resources
+D:\kf\VS\8_303\10_8\大鱼吃小鱼\obj\Debug\大鱼吃小鱼.Properties.Resources.resources
+D:\kf\VS\8_303\10_8\大鱼吃小鱼\obj\Debug\大鱼吃小鱼.csproj.GenerateResource.cache
+D:\kf\VS\8_303\10_8\大鱼吃小鱼\obj\Debug\大鱼吃小鱼.csproj.CoreCompileInputs.cache
+D:\kf\VS\8_303\10_8\大鱼吃小鱼\obj\Debug\大鱼吃小鱼.exe
+D:\kf\VS\8_303\10_8\大鱼吃小鱼\obj\Debug\大鱼吃小鱼.pdb

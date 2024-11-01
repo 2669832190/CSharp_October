@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameGrabber连接相机", "FrameGrabber连接相机\FrameGrabber连接相机.csproj", "{79F9DC03-99A4-41C7-AC50-6E5FF87F4530}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcqFifoTool连接相机", "AcqFifoTool连接相机\AcqFifoTool连接相机.csproj", "{664C2290-9B6B-42E9-8D0F-5AE0427EA696}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ini文件操作", "ini文件操作\ini文件操作.csproj", "{6B7166F9-921D-4402-8AF3-41A0F0355389}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hik连接相机", "Hik连接相机\Hik连接相机.csproj", "{A916D936-B4A2-4B2D-B42F-E3A5179A99C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hik连接相机2", "Hik连接相机2\Hik连接相机2.csproj", "{D9838037-54D8-4433-9D08-3E6AD418D3F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79F9DC03-99A4-41C7-AC50-6E5FF87F4530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F9DC03-99A4-41C7-AC50-6E5FF87F4530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F9DC03-99A4-41C7-AC50-6E5FF87F4530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F9DC03-99A4-41C7-AC50-6E5FF87F4530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{664C2290-9B6B-42E9-8D0F-5AE0427EA696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{664C2290-9B6B-42E9-8D0F-5AE0427EA696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{664C2290-9B6B-42E9-8D0F-5AE0427EA696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{664C2290-9B6B-42E9-8D0F-5AE0427EA696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B7166F9-921D-4402-8AF3-41A0F0355389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B7166F9-921D-4402-8AF3-41A0F0355389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B7166F9-921D-4402-8AF3-41A0F0355389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B7166F9-921D-4402-8AF3-41A0F0355389}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A916D936-B4A2-4B2D-B42F-E3A5179A99C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A916D936-B4A2-4B2D-B42F-E3A5179A99C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A916D936-B4A2-4B2D-B42F-E3A5179A99C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A916D936-B4A2-4B2D-B42F-E3A5179A99C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9838037-54D8-4433-9D08-3E6AD418D3F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9838037-54D8-4433-9D08-3E6AD418D3F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9838037-54D8-4433-9D08-3E6AD418D3F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9838037-54D8-4433-9D08-3E6AD418D3F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6A03F2B-E10A-4404-B77F-4DF739B6BB78}
+	EndGlobalSection
+EndGlobal

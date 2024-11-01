@@ -1,0 +1,7 @@
+D:\kf\VS\8_303\10_8\01复习文件读写\bin\Debug\01复习文件读写.exe.config
+D:\kf\VS\8_303\10_8\01复习文件读写\bin\Debug\01复习文件读写.exe
+D:\kf\VS\8_303\10_8\01复习文件读写\bin\Debug\01复习文件读写.pdb
+D:\kf\VS\8_303\10_8\01复习文件读写\obj\Debug\01复习文件读写.csproj.AssemblyReference.cache
+D:\kf\VS\8_303\10_8\01复习文件读写\obj\Debug\01复习文件读写.csproj.CoreCompileInputs.cache
+D:\kf\VS\8_303\10_8\01复习文件读写\obj\Debug\01复习文件读写.exe
+D:\kf\VS\8_303\10_8\01复习文件读写\obj\Debug\01复习文件读写.pdb

@@ -1,0 +1,16 @@
+H:\CSharp_October\MyDome\10_31(串口通信)\bin\Debug\10_31(串口通信).exe.config
+H:\CSharp_October\MyDome\10_31(串口通信)\bin\Debug\10_31(串口通信).exe
+H:\CSharp_October\MyDome\10_31(串口通信)\bin\Debug\10_31(串口通信).pdb
+H:\CSharp_October\MyDome\10_31(串口通信)\bin\Debug\System.IO.Pipelines.dll
+H:\CSharp_October\MyDome\10_31(串口通信)\bin\Debug\System.Memory.dll
+H:\CSharp_October\MyDome\10_31(串口通信)\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\CSharp_October\MyDome\10_31(串口通信)\bin\Debug\System.Buffers.dll
+H:\CSharp_October\MyDome\10_31(串口通信)\bin\Debug\System.Numerics.Vectors.dll
+H:\CSharp_October\MyDome\10_31(串口通信)\obj\Debug\10_31(串口通信).csproj.AssemblyReference.cache
+H:\CSharp_October\MyDome\10_31(串口通信)\obj\Debug\_10_31_串口通信_.Form1.resources
+H:\CSharp_October\MyDome\10_31(串口通信)\obj\Debug\_10_31_串口通信_.Properties.Resources.resources
+H:\CSharp_October\MyDome\10_31(串口通信)\obj\Debug\10_31(串口通信).csproj.GenerateResource.cache
+H:\CSharp_October\MyDome\10_31(串口通信)\obj\Debug\10_31(串口通信).csproj.CoreCompileInputs.cache
+H:\CSharp_October\MyDome\10_31(串口通信)\obj\Debug\10_31(串口.F64BE23A.Up2Date
+H:\CSharp_October\MyDome\10_31(串口通信)\obj\Debug\10_31(串口通信).exe
+H:\CSharp_October\MyDome\10_31(串口通信)\obj\Debug\10_31(串口通信).pdb

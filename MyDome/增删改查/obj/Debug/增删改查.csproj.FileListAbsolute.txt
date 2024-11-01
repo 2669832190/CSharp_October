@@ -1,0 +1,14 @@
+H:\CSharp_October\MyDome\增删改查\bin\Debug\增删改查.exe.config
+H:\CSharp_October\MyDome\增删改查\bin\Debug\增删改查.exe
+H:\CSharp_October\MyDome\增删改查\bin\Debug\增删改查.pdb
+H:\CSharp_October\MyDome\增删改查\obj\Debug\增删改查.csproj.AssemblyReference.cache
+H:\CSharp_October\MyDome\增删改查\obj\Debug\增删改查.Login.resources
+H:\CSharp_October\MyDome\增删改查\obj\Debug\增删改查.Properties.Resources.resources
+H:\CSharp_October\MyDome\增删改查\obj\Debug\增删改查.csproj.GenerateResource.cache
+H:\CSharp_October\MyDome\增删改查\obj\Debug\增删改查.csproj.CoreCompileInputs.cache
+H:\CSharp_October\MyDome\增删改查\obj\Debug\增删改查.exe
+H:\CSharp_October\MyDome\增删改查\obj\Debug\增删改查.pdb
+H:\CSharp_October\MyDome\增删改查\obj\Debug\增删改查.StudentMessages.resources
+H:\CSharp_October\MyDome\增删改查\obj\Debug\增删改查.AddStudent.resources
+H:\CSharp_October\MyDome\增删改查\obj\Debug\增删改查.Amend.resources
+H:\CSharp_October\MyDome\增删改查\obj\Debug\增删改查.Inquire.resources

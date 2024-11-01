@@ -1,0 +1,5 @@
+StudentId:2024004;Name:王五;Age:22;Sex:女;Class:人工智能26班;Address:河南省商丘市;Phone:15898987667
+StudentId:2024005;Name:喜羊羊;Age:18;Sex:男;Class:人工智能31班;Address:河南省郑州市;Phone:13536341235
+StudentId:2024006;Name:美羊羊;Age:18;Sex:女;Class:人工智能32班;Address:青青草原;Phone:16525536896
+StudentId:2024007;Name:灰太狼;Age:255;Sex:男;Class:人工智能33班;Address:比奇堡;Phone:13909090091
+StudentId:2024010;Name:沸羊羊;Age:19;Sex:男;Class:羊村32班;Address:青青草原;Phone:13512345678

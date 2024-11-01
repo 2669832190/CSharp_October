@@ -1,0 +1,11 @@
+D:\kf\VS\8_303\10_8\04窗体传值修改\bin\Debug\04窗体传值修改.exe.config
+D:\kf\VS\8_303\10_8\04窗体传值修改\bin\Debug\04窗体传值修改.exe
+D:\kf\VS\8_303\10_8\04窗体传值修改\bin\Debug\04窗体传值修改.pdb
+D:\kf\VS\8_303\10_8\04窗体传值修改\obj\Debug\04窗体传值修改.csproj.AssemblyReference.cache
+D:\kf\VS\8_303\10_8\04窗体传值修改\obj\Debug\_04窗体传值修改.Form1.resources
+D:\kf\VS\8_303\10_8\04窗体传值修改\obj\Debug\_04窗体传值修改.Properties.Resources.resources
+D:\kf\VS\8_303\10_8\04窗体传值修改\obj\Debug\04窗体传值修改.csproj.GenerateResource.cache
+D:\kf\VS\8_303\10_8\04窗体传值修改\obj\Debug\04窗体传值修改.csproj.CoreCompileInputs.cache
+D:\kf\VS\8_303\10_8\04窗体传值修改\obj\Debug\04窗体传值修改.exe
+D:\kf\VS\8_303\10_8\04窗体传值修改\obj\Debug\04窗体传值修改.pdb
+D:\kf\VS\8_303\10_8\04窗体传值修改\obj\Debug\_04窗体传值修改.UpdateInfo.resources

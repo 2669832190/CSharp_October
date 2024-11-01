@@ -1,0 +1,61 @@
+常用的相机：
+国产：  海康 大华
+进口：巴斯勒 康耐视（康耐视相机一般为巴斯勒贴牌产品）
+镜头： 
+FA镜头
+国产：海康 大华 OPT
+进口：computar 、vs
+远心镜头：
+国产：视清、灿锐
+
+光源：OPT、默然、冠比特、嘉励
+国产做的比较好的视觉软件公司  海康的Vision Master 凌云光的VisionAssembly
+深度学习软件：
+  Cognex  vidi
+阿丘 aidi
+思谋 vimo deeplearning
+
+主流机械手品牌
+瑞典-ABBRobotics机器人、
+日本-发那科（FANUC）、
+德国-库卡（KUKARoboterGmbh）、
+日本-安川电机（YaskawaElectricCo.）、
+日本-爱普生（DENSOEPSON）机器人
+日本-那智（NACHI）不二越
+
+常用的PLC
+西门子、三菱、欧姆龙
+
+SDK
+SDK，即Software Development Kit的缩写，译作软件开发工具包。. 软件开发工具包是一个覆盖面相当广泛的名词，你甚至可以这么理解：辅助开发某一类软件的相关文档、范例和工具的集合都可以叫做SDK。
+
+3C行业
+结合电脑、通讯、和消费性电子三大科技产品整合应用的资讯家电产业
+
+过杀率 ： 好的判别成坏的
+漏检率 ：坏检测成好的
+一条：0.01mm
+
+
+FN(False Negative)：本来是OK的判成NG了，过检
+FP(False Positive): 本来是NG的判成OK了，漏检
+TP(True Positive): 本来是OK的判成OK了，正确放过
+TN(True Negative): 本来是NG的判成NG了，检出成功
+SOP: 标准作业指导书
+MSOP：测量标准作业规范
+
+SMT：的意思是表面安装技术，或者称为表面粘贴技术
+BOM：物料清单
+
+GRR是Gauge Repeatability and Reproducibility的缩写，意思是测量系统的重复性和复现性，需要在相同的归零条件下，在短时间内取得数据。
+相关 （Correlation），又称为 相关性 ，在 概率论 和 统计学 中，相关显示了两个或几个 随机变量 之间线性关系的强度和方向。.在统计学中，相关的意义是：用来衡量两个变量相对于其相互独立的距离。
+Cpk（Process Capability Index，制程能力指标）:是统计制程管制(SPC，Statistical Process Control)里一个非常重要的专有名词，
+Cp，Cpk，Process capability index，意为过程能力指数，是在生产过程处于统计控制状态后，用来判定过程能力是否达到顾客要求的指标。简单说来过程能力指数越高，生产可能出现的不良率就越低。过程能力指数有两种，Cp和Cpk，
+Cp，Cpk反映的是短期内过程输出满足产品质量要求的程度，
+Cp= Process Capability Ratio 可被译为“过程能力指数”Cpk= Process Capability K Ratio 可被译为“过程能力K指数”
+CPK的指标为什么要求大于1.33？
+ 当Cpk等于1.33时，该流程生产的产品的理论合格率=99.379%（考虑1.5西格玛偏移时的情况）
+当Cpk等于1.33时，该流程生产的产品的理论合格率=99.993%（不考虑1.5西格玛偏移时的情况）
+
+Cp，Cpk，Pp，Ppk定义及关系全解 - QuAInS质量大数据的文章 - 知乎
+https://zhuanlan.zhihu.com/p/448946197  详细解释查看连接

@@ -1,0 +1,11 @@
+H:\CSharp_October\MyDome\窗体传值修改\bin\Debug\窗体传值修改.exe.config
+H:\CSharp_October\MyDome\窗体传值修改\bin\Debug\窗体传值修改.exe
+H:\CSharp_October\MyDome\窗体传值修改\bin\Debug\窗体传值修改.pdb
+H:\CSharp_October\MyDome\窗体传值修改\obj\Debug\窗体传值修改.csproj.AssemblyReference.cache
+H:\CSharp_October\MyDome\窗体传值修改\obj\Debug\窗体传值修改.Form1.resources
+H:\CSharp_October\MyDome\窗体传值修改\obj\Debug\窗体传值修改.Properties.Resources.resources
+H:\CSharp_October\MyDome\窗体传值修改\obj\Debug\窗体传值修改.Update.resources
+H:\CSharp_October\MyDome\窗体传值修改\obj\Debug\窗体传值修改.csproj.GenerateResource.cache
+H:\CSharp_October\MyDome\窗体传值修改\obj\Debug\窗体传值修改.csproj.CoreCompileInputs.cache
+H:\CSharp_October\MyDome\窗体传值修改\obj\Debug\窗体传值修改.exe
+H:\CSharp_October\MyDome\窗体传值修改\obj\Debug\窗体传值修改.pdb
